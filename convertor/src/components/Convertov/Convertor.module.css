@@ -1,0 +1,22 @@
+.convertor {
+  width: 800px;
+  height: fit-content;
+  background-color: #fff0ff;
+  margin: 0 auto;
+  margin-top: 80px;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #191934;
+  border-radius: 2px;
+}
+
+.form_title {
+  font-weight: 300;
+
+  word-spacing: 5px;
+}
+
+.up_down_image{
+  width: 50px;
+  height: 50px;
+}
